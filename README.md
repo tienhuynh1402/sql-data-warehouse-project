@@ -36,6 +36,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making
 
-##🌟 About Me
+## 🌟 About Me
 
 Hi! I’m Tien Huynh, a certified Data Analyst based in Leipzig, Germany with a background in project management. I’m passionate about transforming data into insights through visualization and analytics, and I love learning new ways to make data tell a story. 
