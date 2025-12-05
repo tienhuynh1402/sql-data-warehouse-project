@@ -3,7 +3,8 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipeline-0078D4?style=flat-square)
 ![Architecture](https://img.shields.io/badge/Medallion_Architecture-FFB900?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
+
 
 > **Enterprise-grade SQL Server data warehouse implementing medallion architecture (Bronze-Silver-Gold) with automated ETL pipeline integrating CRM and ERP sources into star schema dimensional model.**
 
